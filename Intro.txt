@@ -4,3 +4,12 @@ git commit -m ""
 git status
 git branch
 git merge 
+
+
+Une Pull Request (PR) est une demande pour intégrer des modifications d’une branche à une autre, généralement :
+
+Source : la branche où tu as fait tes modifications (ex : feature/mon-ajout).
+
+Cible : la branche principale (ex : main ou master).
+
+Elle sert à proposer tes changements aux autres membres de l’équipe avant qu’ils ne soient fusionnés dans la branche principale.
